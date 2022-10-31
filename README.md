@@ -16,7 +16,7 @@ SQLAlchemy was used to gather all temperature measurements in the provided SQLit
 
 * A histogram plot of the data shows that even in December, most days on the island are in the mid-60s and above, even reaching 80 °F!
 
-![Temp_Hist](/Users/catherinesmith/Desktop/unc_bootcamp/module_9/UNCBC-HW9-SurfsUp/histogram.png)
+![Temp_Hist](Users/catherinesmith/Desktop/unc_bootcamp/module_9/UNCBC-HW9-SurfsUp/histogram.png)
 
 
 ## Summary
