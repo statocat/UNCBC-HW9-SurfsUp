@@ -14,7 +14,7 @@ SQLAlchemy was used to gather all temperature measurements in the provided SQLit
 
 * The lowest temperature observed in December was 56°F, a full 9°F lower than the minimum temperature observed in June. So while most days in December are in the 70s, some occasional chilly days can be expected.
 
-* A histogram plot of the data shows that even in December, most days on the island are in the mid-60s and above, even reaching 80 °F!
+* A histogram plot of the data shows that even in December, most days on the island are in the high-60s and above, even reaching 80 °F!
 
 ![Temp_Hist](histogram.png)
 
